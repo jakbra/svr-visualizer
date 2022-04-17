@@ -15,12 +15,17 @@ Clone the repo
 ```
 git clone https://github.com/jakbra/svr-visualizer
 ```
+  
+Go to folder
+```
+cd svr-visualizer
+```
 
-Install the depend
+Install the dependencies
 ```
 pip install -r requirements.txt
 ```
-
+  
 Run the app
 ```
 python svr.py
