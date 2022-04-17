@@ -1,1 +1,3 @@
-7lk_ocr_deploy==0.1.69
+certifi==2020.6.20
+libsvm==3.23.0.4
+tk==0.1.0
